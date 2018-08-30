@@ -320,7 +320,11 @@ th {
 
 /*-----テーブルの左項目クラス定義（８文字分)----*/
 td.rh{
-  width: 8em
+  width: 8em;
+}
+
+#fbold {
+  font-weight: bold;
 }
 
 
