@@ -269,6 +269,12 @@ p {
   padding: 0;
 }
 
+#contents figcaption {
+    margin: 0 0 0 0;
+    font-size: 14px;
+    font-weight: bold;
+}
+
 
 table#t01 {
   border: solid 1px #999999;
