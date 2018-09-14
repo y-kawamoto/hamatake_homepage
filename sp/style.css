@@ -196,7 +196,11 @@ section td.table_line {
   padding : 8px 10px 8px 10px;
 }
 
-td.nowrap {
+section table {
+  table-layout:fixed;
+}
+
+section td.nowrap {
   white-space: nowrap;
 }
 
